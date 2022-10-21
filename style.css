@@ -1,0 +1,44 @@
+body {
+    margin: 0;
+    background-color: white;
+}
+
+header {
+     background: pink;
+  display: flex;
+  top: 0;
+  height: px;
+  padding: 20px;
+  position: fixed;
+  justify-content: space-between;
+  width: 100%;
+}
+    position: relative;
+    padding-left: 10px
+}
+
+nav {
+    position:absolute;
+    top:0;
+    right: 100;
+}
+
+.lists{
+    color: red;
+    list-style-type: none;
+    text-align: center;
+}
+
+.list{
+    color: red;
+    padding-left: 50px;
+    font-weight: bold;
+    font-size:20px;
+}
+.img {
+    padding-top: 130px;
+}
+
+.introduction {
+    text-align: center;
+}
